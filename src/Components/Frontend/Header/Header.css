@@ -1,0 +1,33 @@
+.logo {
+    height: 70px;
+}
+
+input:focus-visible{
+	outline: 0;
+}
+
+@media(max-width: 767px){
+	.search-bar {
+		position: absolute;
+		bottom: 10px;
+		display: flex;
+		flex-direction: row;
+		right: 15%;
+	}
+	nav{
+		padding-bottom: 0rem!important;
+	}
+	#example-navbar-danger {
+		justify-content: space-between;
+		height: 300px;
+		position: relative;
+		bottom: 20px;
+	}
+	
+}
+@media(min-width:768px){
+	.nav-item a:hover {
+		border-bottom: 2px solid green;
+	}
+	
+}

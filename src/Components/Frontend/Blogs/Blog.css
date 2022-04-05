@@ -1,0 +1,13 @@
+.blog-image {
+    border: 1px solid #c3c1c1;
+    border-radius: 5px; 
+    height: 12rem;
+    width: 100%;
+    padding: 2px;  
+}
+
+article.blog {
+    margin: 0 5px;
+    border: 1px solid #ededed;
+    padding: 5px;
+}

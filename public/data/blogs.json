@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "What is context API?",
+    "img": "https://i.imgur.com/N4MVlru.png",
+    "description": "Context API is a way for a React js to effectively produce global variables that can be passed around. This is the alternative to Props drilling or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.Context API is a new feature added in version 16.3 of React that allows one to share state across the entire app lightly and with ease." 
+  },
+  {
+    "id": "2",
+    "title": "What is Semantic tag?",
+    "img": "https://i.imgur.com/N7fmqoF.jpg",
+    "description": "Semantic HTML tags provide information about the contents of those tags that goes beyond just how they look on a page. It helps Google and Bing understand the roles and relative importance of the different parts of your page. Examples of semantic HTML tags include: Header tags <h1> through <h6>, <blockquote>, <code>, <em>, <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, <summary>, <time> etc."  
+  },
+  {
+    "id": "2",
+    "title": "Difference between inline-block and inline element?",
+    "img": "https://i.imgur.com/9kjxIIJ.png",
+    "description": "Block elements have a rectangular structure.The inline elements can be embedded in block elements.The key difference between the block and the inline element is that the block elements take up the full width available while the inline elements take the required width to display the contents of the elements. So, the block elements take all width. The inline elements will take only the required width. Block elements start with a new line.Inline elements do not start with a new line.The block elements are the elements that will span the entire width of the parent element, and won’t allow any other element to occupy the same horizontal space as it is placed.The inline elements are the elements that cannot be placed directly inside the body element and which are nested within block elements."
+  }
+]
